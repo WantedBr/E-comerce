@@ -1,0 +1,83 @@
+.login {
+    text-align: right;
+}
+
+.background-topo {
+    height: 200px;
+
+
+}
+
+.background-corpo {
+    background-color: antiquewhite;
+    height: 1000px;
+    background-image: url(../imagens/fundo-background.jpg);
+    background-size: cover;
+
+
+}
+
+.imagem-site {
+    text-align: center;
+}
+
+
+
+.botoes {
+    background-color: rgb(241, 151, 168);
+    padding: 10px;
+    border: solid rgb(239, 198, 94);
+    border-radius: 10px;
+
+}
+
+.botoes:hover {
+    background-color: rgb(239, 198, 94);
+    padding: 15px;
+    border: solid rgb(250, 250, 250);
+    border-radius: 10px;
+    font-size: 30px;
+
+
+}
+
+.box-botao {
+    text-align: center;
+    display: block;
+}
+
+.img-botao {
+    border: solid;
+    border-radius: 10px;
+
+
+}
+
+.img-botao:hover {
+    box-shadow: 5px 5px 10px black;
+}
+
+
+
+
+body {
+    background: rgb(241, 151, 168);
+    color: black;
+    text-shadow: 2px 2px 5px black;
+
+}
+
+h1 {
+
+    color: white;
+    font-size: 88px;
+    text-align: left;
+    margin-top: 10px;
+
+}
+
+
+
+form {
+    color: white;
+}
